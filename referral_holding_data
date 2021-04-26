@@ -1,0 +1,48 @@
+{
+    "long_term_hold":[
+      {
+        "name":"Peter Parker",
+
+        "type":"Buying",
+
+        "category":"SPOKE",
+
+        "color":"red",
+
+        "bg_color":"pink"
+      },
+      {
+        "name":"Peter Parker",
+
+        "type":"Buying",
+
+        "category":"SPOKE",
+
+        "color":"red",
+
+        "bg_color":"pink"
+      },
+      {
+        "name":"Peter Parker",
+
+        "type":"Buying",
+
+        "category":"SPOKE",
+
+        "color":"red",
+
+        "bg_color":"pink"
+      },
+      {
+        "name":"Peter Parker",
+
+        "type":"Buying",
+
+        "category":"SPOKE",
+
+        "color":"red",
+
+        "bg_color":"pink"
+      }
+    ], 
+}
